@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&weight=500&size=30&pause=1000&color=0194DD&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+Vitor+Silva!)](https://git.io/typing-svg)
 
-- 🔭 Hoje estou em busca de novas oportunidades e aprendizado no mercado de TI (Desenvolvimento Web Full Stack) 
+- 🔭 Hoje estou em busca de novas oportunidades e aprendizado no mercado de TI (Desenvolvimento Web PHP Full Stack) 
 - 🌱 Atualmente estudo principalmente HTML e CSS, mas também busco aprender PHP e SQL.
 - 🤔 Aceito ajuda na minha jornada para aprender
 - 💬 Meu hobby é futebol
